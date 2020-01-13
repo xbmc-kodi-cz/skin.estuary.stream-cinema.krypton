@@ -1,0 +1,159 @@
+Stream Cinema
+
+Stažené soubory
+/storage/downloads/
+
+Vyhledávání
+plugin://plugin.video.stream-cinema/?list=2f5365617263682f6d656e75&amp;title=5b425d2433303935335b2f425d&amp;url=2f5365617263682f6d656e75
+
+Filmy
+plugin://plugin.video.stream-cinema/?id=6d6f76696573&amp;list=2f4d6f76696573&amp;title=243330393031&amp;url=2f4d6f76696573
+
+Seriály
+plugin://plugin.video.stream-cinema/?id=736572696573&amp;list=2f536572696573&amp;title=243330393032&amp;url=2f536572696573
+
+Koncerty
+plugin://plugin.video.stream-cinema/?id=6b6f6e63657274&amp;list=2f4d6f766965732f6b6f6e63657274&amp;title=4b6f6e6365727479&amp;url=2f4d6f766965732f6b6f6e63657274
+
+Anime
+plugin://plugin.video.stream-cinema/?id=616e696d65&amp;list=2f416e696d65&amp;title=416e696d65&amp;url=2f416e696d65
+
+Moje seznamy (trakt.tv)
+plugin://plugin.video.stream-cinema/?action=7472616b7457617463686c697374&amp;title=24333039343320287472616b742e747629
+
+TV dnes
+plugin://plugin.video.stream-cinema/?list=2f5476&amp;title=243330393130&amp;url=2f5476
+
+TV program na 14 dni
+plugin://plugin.video.stream-cinema/?list=2f54762f617263686976&amp;title=243330393238&amp;url=2f54762f617263686976
+
+HDR
+plugin://plugin.video.stream-cinema/?list=2f484452&amp;title=484452&amp;url=2f484452
+
+Zoznamy/Rebricky
+plugin://plugin.video.stream-cinema/?list=2f5365617263682f6765744c697374&amp;title=5a6f7a6e616d792f5265627269636b79&amp;url=2f5365617263682f6765744c697374
+
+Nastavení
+Addon.OpenSettings(plugin.video.stream-cinema)
+
+Plugin
+RunAddon(plugin.video.stream-cinema)		
+
+Filmy
+
+Poslední sledované
+plugin://plugin.video.stream-cinema/?action=6c617374&amp;id=6c6173746d&amp;title=243330393237
+
+Novinky
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f6c6174657374&amp;title=243330393530&amp;url=2f4d6f766965732f6c6174657374
+
+Novinky dub
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f6c617465737464&amp;title=24333039353020647562&amp;url=2f4d6f766965732f6c617465737464
+
+Práve sledované
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f7761746368696e67&amp;title=243330393536&amp;url=2f4d6f766965732f7761746368696e67
+
+Nejsledovanější
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f706f70756c6172&amp;title=243330393035&amp;url=2f4d6f766965732f706f70756c6172
+
+Nově přidané
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f6e657773747265616d&amp;title=243330393239&amp;url=2f4d6f766965732f6e657773747265616d
+
+A-Z
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f617a&amp;title=243330393033&amp;url=2f4d6f766965732f617a
+
+Země
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f636f756e747279&amp;title=243330393036&amp;url=2f4d6f766965732f636f756e747279
+
+Kvalita
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f7175616c697479&amp;title=243330393037&amp;url=2f4d6f766965732f7175616c697479
+
+Žánr
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f67656e7265&amp;title=243330393038&amp;url=2f4d6f766965732f67656e7265
+
+Rok
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f79656172&amp;title=243330393039&amp;url=2f4d6f766965732f79656172
+
+Kolekcie
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f636f6c6c656374696f6e&amp;title=4b6f6c656b636965&amp;url=2f4d6f766965732f636f6c6c656374696f6e
+
+Knihovna
+plugin://plugin.video.stream-cinema/?cmd=416374697661746557696e646f7728566964656f732c4d6f7669657329&amp;title=243330393235&amp;url=636d643a2f2f416374697661746557696e646f7728566964656f732c4d6f7669657329
+
+Seriály
+
+Poslední sledované
+plugin://plugin.video.stream-cinema/?action=6c617374&amp;id=6c617374&amp;title=243330393237
+
+Poslední přidané seriály
+plugin://plugin.video.stream-cinema/?list=2f5365726965732f6c6174657374&amp;title=243330393231&amp;url=2f5365726965732f6c6174657374
+
+Poslední přidané části
+plugin://plugin.video.stream-cinema/?list=2f5365726965732f6e65776570&amp;title=243330393230&amp;url=2f5365726965732f6e65776570
+
+Nejsledovanější
+plugin://plugin.video.stream-cinema/?list=2f5365726965732f706f70756c6172&amp;title=243330393035&amp;url=2f5365726965732f706f70756c6172
+
+Práve sledované
+plugin://plugin.video.stream-cinema/?list=2f5365726965732f7761746368696e67&amp;title=243330393536&amp;url=2f5365726965732f7761746368696e67
+
+A-Z
+plugin://plugin.video.stream-cinema/?list=2f5365726965732f617a&amp;title=243330393033&amp;url=2f5365726965732f617a
+
+Země
+plugin://plugin.video.stream-cinema/?list=2f5365726965732f636f756e747279&amp;title=243330393036&amp;url=2f5365726965732f636f756e747279
+
+Žánr
+plugin://plugin.video.stream-cinema/?list=2f5365726965732f67656e7265&amp;title=243330393038&amp;url=2f5365726965732f67656e7265
+
+Knihovna
+plugin://plugin.video.stream-cinema/?cmd=416374697661746557696e646f7728566964656f732c547653686f777329&amp;title=243330393235&amp;url=636d643a2f2f416374697661746557696e646f7728566964656f732c547653686f777329
+
+Pohádky
+
+Rozpravky
+plugin://plugin.video.stream-cinema/?id=36&amp;list=2f5365617263682f6765744c6973742f36&amp;title=526f7a707261766b79&amp;url=2f5365617263682f6765744c6973742f36
+
+Animovaný
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f67656e72652f616e696d6f76616e79&amp;title=243331313238&amp;url=2f4d6f766965732f67656e72652f616e696d6f76616e79
+
+Pohádky
+plugin://plugin.video.stream-cinema/?list=2f4d6f766965732f67656e72652f706f6861646b61&amp;title=243332383230&amp;url=2f4d6f766965732f67656e72652f706f6861646b61
+
+Disney
+plugin://plugin.video.stream-cinema/?id=3836&amp;list=2f5365617263682f6765744c6973742f3836&amp;title=4469736e6579&amp;url=2f5365617263682f6765744c6973742f3836
+
+Radio
+
+Radio
+RunAddon(plugin.audio.radio_de)
+
+My Stations
+plugin://plugin.audio.radio_de/stations/my/
+
+Local Stations
+plugin://plugin.audio.radio_de/stations/local/
+
+Editorials Recommendations
+plugin://plugin.audio.radio_de/stations/recommended/
+
+Top 100 Stations
+plugin://plugin.audio.radio_de/stations/top/
+
+Browse by genre
+plugin://plugin.audio.radio_de/stations/genre/
+
+Browse by topic
+plugin://plugin.audio.radio_de/stations/topic/
+
+Browse by country
+plugin://plugin.audio.radio_de/stations/country/
+
+Browse by city
+plugin://plugin.audio.radio_de/stations/city/
+
+Browse by language
+plugin://plugin.audio.radio_de/stations/language/
+
+Search for station
+plugin://plugin.audio.radio_de/stations/search/

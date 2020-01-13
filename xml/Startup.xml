@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<onload>ReplaceWindow($INFO[System.StartupWindow])</onload>
+	<!-- <onload>AlarmClock(Skin,ReplaceWindow($INFO[System.StartupWindow]),00:05,silent)</onload> -->
+	<!-- <onload>AlarmClock(Skin,ReloadSkin(),00:01,silent)</onload> -->
+	<controls />
+</window>
